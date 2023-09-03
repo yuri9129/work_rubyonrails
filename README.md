@@ -15,7 +15,7 @@ docker-compose run web rails new . --force --database=mysql --skpi-bundle
 
 config/database.ymlを編集する。
 ```
-password: passw
+password: password
 host:db
 ```
 
